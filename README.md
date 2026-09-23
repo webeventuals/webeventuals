@@ -1,16 +1,20 @@
-## Hi there 👋
+# Web Eventuals
 
-<!--
-**webeventuals/webeventuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Custom software, AI builds and websites for businesses across India and abroad. Based in Bengaluru.
 
-Here are some ideas to get you started:
+## What we build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Custom software and AI products**: internal tools, dashboards, automation, AI-scored workflows. From Rs 50,000 plus taxes as applicable.
+- **AI chatbots**: trained on your business, on your site or WhatsApp. Rs 25,000 plus taxes as applicable.
+- **Websites**: fast, search-ready business sites.
+
+Fixed price, quoted after one scoping call. No hourly billing surprises.
+
+## See the work
+
+- Services: https://webeventuals.com/services/software/
+- What we build: https://webeventuals.com/what-we-build/
+
+## Start a project
+
+https://webeventuals.com/contact/
